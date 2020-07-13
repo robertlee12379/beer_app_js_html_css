@@ -13,3 +13,4 @@
 * Integrated Punk API for getting data
 * Incorporated filtering, pagination and dealt with data inconsistencies
 * Utilized: JS, HTML, CSS
+* This project is a part of the Frontend Developer Career Path provided by scrimba.com
